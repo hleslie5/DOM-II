@@ -1,12 +1,12 @@
 # DOM II - Event Exploration
 
-Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
+Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
 ## Instructions
 
 ### Task 1: Project Set Up
 
-#### Set Up The Project With Git
+#### Set Up The Project Withh Git
 
 **Follow these steps to set up and work on your project:**
 
